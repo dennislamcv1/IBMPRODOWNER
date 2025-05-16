@@ -1,5 +1,6 @@
 # IBMPRODOWNER
-## IBM Product Owner Professional Certificate
+
+## IBM Product Owner Professional Certificate (7 course series)
 
 The average salary of a product owner in the U.S. is $110,000 (Indeed). Product owners are highly valued and in demand across industries. If you're looking to start a career as a product owner or seek certification to enhance your resume, this Professional Certificate program provides exam preparation and key skills employers value. No prior experience required!
 
